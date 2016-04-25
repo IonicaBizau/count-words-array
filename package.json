@@ -1,6 +1,6 @@
 {
   "name": "count-words-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get the word count as array.",
   "main": "lib/index.js",
   "directories": {
@@ -27,5 +27,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/count-words-array/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/count-words-array#readme"
+  "homepage": "https://github.com/IonicaBizau/count-words-array#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
