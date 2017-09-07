@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Get the word count as sorted array.
 
 #### Params
+
 - **String** `s`: The input string.
 - **Boolean** `i`: A flag representing if the word matching is case insensitive.
 
