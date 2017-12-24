@@ -1,6 +1,6 @@
 {
   "name": "count-words-array",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Get the word count as array.",
   "main": "lib/index.js",
   "directories": {
